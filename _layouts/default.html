@@ -4,17 +4,45 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <div class="row">
+      <div class="span3 mobile-full">
+        {% include header.html %}
+        {% include menu.html %}
+      </div>
+      <div class="span6 mobile-full medium">
+        <div id="content_container" class="row">
+          <div id="maincontainer">
+            <div class="content">
+              <!-- main content -->
+              {{ content }}
+            </div>
+          </div>
+          {% include footer.html %}
+        </div>
+      </div>
+      <div class="span3 desktop-only">
+        <div class="row">
+          <div class="contact">
+            <h3>Kontakt</h3>
+            <p>Schreiben Sie eine Mail oder besuchen Sie uns einfach.</p>
+            <div class="vcard">
+            <div class="fn org">I²E</div>
+            <div class="adr">
+              <div><span class="street-address">Berliner Tor 11</span> - Raum 2.37</div>
+              <div>
+                <span class="postal-code">20099</span>
+                <span class="locality">Hamburg</span>
+              </div>
+            </div>
+            <a class="email" href="mailto:wendholt@informatik.haw-hamburg.de">wendholt@informatik.haw-hamburg.de</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-
     {% include footer.html %}
-
+    <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/images.js" | prepend: site.baseurl }}"></script>
   </body>
 
 </html>

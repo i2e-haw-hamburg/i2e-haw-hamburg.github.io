@@ -21,7 +21,13 @@ Durch neueste Entwicklungen auf den Gebieten der Natural User Interfaces (NUI)([
 
 #### Kollaborative Konstruktion
 
-In diesem Szenario soll die kollaborative Konstruktion von 3D Welten als Mischform aus virtuellen und realen Objekten erforscht werden. Die Akteure sollen reale Objekte an virtuelle "andocken", reale in virtuelle durch Gesten überführen, und virtuelle, mit den Händen modellierte Objekte in die Konstruktion einbringen können. Ein konkretes Anwendungsszenario wäre ein Entwurf für eine Bebauungsplanung. 
+In diesem Szenario soll die kollaborative Konstruktion von 3D Welten als Mischform aus virtuellen und realen Objekten erforscht werden. Die Akteure sollen reale Objekte an virtuelle "andocken", reale in virtuelle durch Gesten überführen, und virtuelle, mit den Händen modellierte Objekte in die Konstruktion einbringen können. Ein konkretes Anwendungsszenario wäre ein Entwurf für eine Bebauungsplanung.
+
+<id rel="slider">
+    <img src="assets/img/tt1.png" alt="Physikalische Szene" title="Physikalische Szene">
+    <img src="assets/img/tt2.png" alt="Virtuelles Overlay über physikalischer Szene" title="Virtuelles Overlay über physikalischer Szene">
+    <img src="assets/img/tt3.png" alt="Rein virtuelle Sicht, z.B. Beobachter an entferntem Standpunkt" title="Rein virtuelle Sicht, z.B. Beobachter an entferntem Standpunkt">
+</id>
 
 Unterstützend soll hier die reale Welt (eine 3D gescannte Szene) als Ausgangspunkt für den Konstruktionsprozess dienen oder eine möglichst realistische Darstellung einer realen Szene erzeugt werden (siehe z.B. [Pirk 2012](http://kops.ub.uni-konstanz.de/bitstream/handle/urn:nbn:de:bsz:352-215002/Pirk_215002.pdf?sequence=2)). Die Kollaboration soll sowohl lokal als auch verteilt möglich sein. Hier sollen dann die "Mitspieler" in die virtuelle Szene eingeblendet werden. Frühe Prototypen zur kollaborativen 3D Konstruktion sollen in den interaktiven Projekten mit dem Department Design ([computationalspace.org](http://www.computationalspace.org)) eingesetzt und die Ergebnisse ausgestellt werden.
 
