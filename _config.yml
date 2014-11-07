@@ -1,0 +1,14 @@
+# Site settings
+title: I²E - HAW Hamburg
+email: wendholt@informatik.haw-hamburg.de
+description: > # this means to ignore newlines until "baseurl:"
+  I²E steht für Immersive Interactive Environments. Das Projekt der HAW Hamburg 
+  erforscht den Einsatz moderner Interaktionsformen in Mixed Reality Umgebungen 
+  in den Anwendungsbereichen kollaborative Konstruktion und darstellende Kunst.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://i2e.informatik.haw-hamburg.de" # the base hostname & protocol for your site
+twitter_username: HAW_I2E
+github_username:  i2e-haw-hamburg
+
+# Build settings
+markdown: kramdown
