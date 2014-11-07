@@ -2,6 +2,7 @@
 layout: page
 title: Conferences
 permalink: /conferences.html
+weight: 3
 ---
 
 ## Konferenzen

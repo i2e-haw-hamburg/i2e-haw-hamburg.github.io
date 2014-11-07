@@ -2,6 +2,7 @@
 layout: page
 title: Papers
 permalink: /papers.html
+weight: 2
 ---
 
 ## Veröffentlichungen

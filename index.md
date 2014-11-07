@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+weight: 1
 ---
 
 ## I²E - Immersive Interactive Environments
