@@ -63,4 +63,10 @@ Hier finden Sie Veröffentlichungen, Bachelor- und Masterarbeiten die im Rahmen 
     * [Bericht]({{ site.url }}/assets/docs/p1/p1_blank_2014.pdf)
  * Petersen, Iwer - Projekt 1 I²E
     * [Bericht]({{ site.url }}/assets/docs/p1/p1_petersen_2014.pdf)
+
+#### Masterseminar
+
+* Blank, Christian - Interaktionen im dreidimensionalen Raum
+    * [Präsentation](http://users.informatik.haw-hamburg.de/~ubicomp/projekte/master2014-sem/blank/folien.pdf)
+
  
