@@ -69,4 +69,8 @@ Hier finden Sie Veröffentlichungen, Bachelor- und Masterarbeiten die im Rahmen 
 * Blank, Christian - Interaktionen im dreidimensionalen Raum
     * [Präsentation](http://users.informatik.haw-hamburg.de/~ubicomp/projekte/master2014-sem/blank/folien.pdf)
 
+#### Publikationen
+
+* Blank, Christian und Eckhoff, Malte und Petersen, Iwer und Wege, Raimund und Wendholt, Birigt - Distributed Collaborative Construction in Mixed Reality
+    * [Paper](http://www.thinkmind.org/index.php?view=article&articleid=achi_2015_10_40_20184)
  
