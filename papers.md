@@ -74,3 +74,7 @@ Hier finden Sie Veröffentlichungen, Bachelor- und Masterarbeiten die im Rahmen 
 * Blank, Christian und Eckhoff, Malte und Petersen, Iwer und Wege, Raimund und Wendholt, Birigt - Distributed Collaborative Construction in Mixed Reality
     * [Paper](http://www.thinkmind.org/index.php?view=article&articleid=achi_2015_10_40_20184)
  
+#### Projekt 2
+
+ * Blank, Christian
+    * [Bericht]({{ site.url }}/assets/docs/p2/p2_blank_2015.pdf)
