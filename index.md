@@ -8,7 +8,7 @@ weight: 1
 
 *Verantwortliche Professorin: Birigt Wendholt (<a class="email" href="mailto:wendholt@informatik.haw-hamburg.de">wendholt@informatik.haw-hamburg.de</a>)*
 
-Das Projekt I²E (Interactive Immersive Environments) erforscht den Einsatz moderner Interaktionsformen in Mixed Reality Umgebungen in den Anwendungsbereichen kollaborative Konstruktion und darstellende Kunst. 
+Das Projekt I²E (Interactive Immersive Environments) erforscht den Einsatz moderner Interaktionsformen in Mixed Reality Umgebungen in den Anwendungsbereichen kollaborative Konstruktion und darstellende Kunst.
 
 Durch neueste Entwicklungen auf den Gebieten der Natural User Interfaces (NUI)([Zhao 2013](http://dl.acm.org/citation.cfm?id=2502081.2502103)) und Computer Vision (CV) wie Online 3D Rekonstruktion ([Keller 2013](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6599048), [Izadi 2011](http://dl.acm.org/citation.cfm?id=2047270)) und 3D Markerless Motion Tracking ([Shotton 2011](http://dl.acm.org/citation.cfm?id=2398381)) erlebt das Forschungsgebiet "Mixed Realities" heute eine Renaissance ([Mealla 2011](http://mtg.upf.es/system/files/publications/listening_to_your_brain_camera_ready.pdf)). In Kombination mit aktuellen Technologien wie See-Through-Brillen und -Displays ([Hilliges 2012](http://dl.acm.org/citation.cfm?id=2208405)), Tiefen-und Bewegungssensoren ([Chen 2013](http://dl.acm.org/citation.cfm?id=2502035)) lassen sich mit vergleichsweise einfacher Ausstattung innovative Lösungen entwickeln.
 
@@ -16,6 +16,8 @@ Durch neueste Entwicklungen auf den Gebieten der Natural User Interfaces (NUI)([
 
  1. Anwendung von Mixed Reality in der darstellenden Kunst, Theater, Film und im weitesten Sinne im Computerspiel (vgl. [Benford und Giannachi 2011](http://dl.acm.org/citation.cfm?id=2030028))
  2. Anwendung in CSCW (Computer Supported Collaborative Work) (vgl. [Azuma et al. 2001](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=963459&tag=1)).
+
+### Aktuelle Ergebnisse
 
 ### Szenarien
 
